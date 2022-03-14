@@ -1,0 +1,113 @@
+.header {
+  background-image: linear-gradient(-90deg, #23bb35, #1761ff);
+}
+.fixed-top {
+  background-image: linear-gradient(-90deg, #23bb35, #1761ff);
+}
+
+.nav-link {
+  font-size: 16px;
+}
+
+.containerr-fluid {
+  margin-top: 88px;
+}
+
+.dropdown-menu {
+  max-height: 450px;
+  max-width: 350px;
+  overflow-y: auto;
+}
+
+.carousel-itemm {
+  height: 32rem;
+  background-image: url(images/staff.jpg);
+  color: white;
+  margin-top: 98px;
+  position: relative;
+}
+
+.collector {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 50px;
+  padding-left: 160px;
+}
+.footer {
+  background-image: linear-gradient(-90deg, #23bb35, #1761ff);
+}
+
+.pic1 {
+  filter: brightness(30%);
+}
+.pic3 {
+  filter: brightness(50%);
+}
+
+.indtxth1 {
+  font-family: "Bitter", serif;
+  font-weight: bold;
+}
+
+.catcher {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+}
+
+.mybox {
+  align-items: center;
+}
+
+.mybox ul li {
+  list-style-type: none;
+}
+
+.heading {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #1761ff;
+  padding-left: 30px;
+}
+
+.paragraph {
+  padding: 30px;
+}
+
+.bighead {
+  font-family: "Merriweather", serif, Bold 700;
+}
+
+.library {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #1761ff;
+}
+
+.lines {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.broad {
+  padding-left: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.longcard {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.led {
+  background-image: linear-gradient(-90deg, #23bb35, #1761ff);
+}
+
+.parent-div {
+  background-image: linear-gradient(-90deg, #23bb35, #1761ff);
+  width: 900px;
+  height: 500px;
+  align-items: center;
+}
